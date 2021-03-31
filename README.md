@@ -16,4 +16,10 @@ Admin can add many categories and upload the news through the category by user-f
 - Admin url is http://127.0.0.1:8000/admin/login
 - For over all control check the (web.php file)
 
+## Front End 
+![Screenshot](public/download(1).png)
+
+
+
+
 
