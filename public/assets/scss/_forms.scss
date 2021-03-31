@@ -1,0 +1,9 @@
+textarea {
+  &.form-control {
+    height: 190px;
+  }
+}
+.form-control {
+  height: 52px;
+  border: 1px solid $border-color;
+}
