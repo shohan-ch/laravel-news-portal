@@ -17,7 +17,7 @@ Admin can add many categories and upload the news through the category by user-f
 - For over all control check the (web.php file)
 
 ## Front End 
-![Screenshot](public/download(1).png)
+![Screenshot](public/download (1).png)
 
 
 
