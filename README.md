@@ -15,8 +15,16 @@ Admin can add many categories and upload the news through the category by user-f
 - php artisan serve (if the server opens up, http://127.0.0.1:8000, then we are good to go)
 - Admin url is http://127.0.0.1:8000/admin/login
 - For over all control check the (web.php file)
-
+## Fornt End
  ![Screenshot](public/Capture.JPG)
+ 
+ ## Back End
+ 
+ ![Screenshot](public/Capture2.JPG)
+ 
+ 
+ 
+
 
 
 
